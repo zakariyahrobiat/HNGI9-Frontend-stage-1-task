@@ -31,7 +31,9 @@ const App = () => {
             >
               <ul>
                 <li>
-                  <a href={link}>{name}</a>
+                  <a href={link} id={id}>
+                    {name}
+                  </a>
                 </li>
               </ul>
             </div>
