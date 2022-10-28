@@ -29,10 +29,10 @@ const App = () => {
         </h2>
         <div className="w-full">
           {links.map((data) => {
-            const { name, link, id } = data;
+            const { name, link, id, title } = data;
             return (
               <div key={id}>
-                <a href={link} id={id}>
+                <a href={link} id={id} title={title}>
                   <button className="bg-gray-200 w-full mb-4 py-4  text-sm font-medium text-gray-900 font-text rounded-lg  lg:text-lg lg:font-semibold  lg:py-3">
                     {name}
                   </button>
