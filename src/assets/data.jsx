@@ -5,8 +5,8 @@ export const links = [
     name: "Twitter Link",
   },
   {
-    id: "btn_zuri",
-    link: "https://training.zuri.team",
+    id: "btn__zuri",
+    link: "https://training.zuri.team/",
     name: "Zuri Team",
   },
   {
@@ -15,8 +15,8 @@ export const links = [
     name: "Zuri Books",
   },
   {
-    id: "book_python",
-    link: "https://books.zuri.team/python-for-beginners?ref_id=<Robiat Zakariyah>",
+    id: "book__python",
+    link: "https://books.zuri.team/python-for-beginners?ref_id=<Robiah>",
     name: "Python Books",
   },
   {
@@ -25,7 +25,7 @@ export const links = [
     name: "Background Check for Coders",
   },
   {
-    id: "book_design",
+    id: "book__design",
     link: "https://books.zuri.team/design-rules",
     name: "Design Books",
   },
