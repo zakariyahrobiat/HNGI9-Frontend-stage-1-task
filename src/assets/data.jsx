@@ -33,4 +33,10 @@ export const links = [
     name: "Design Books",
     title: "free design book offered by Zuri",
   },
+  {
+    id: "contact",
+    link: "/contact",
+    name: "Contact Me",
+    title: "contact us page",
+  },
 ];
