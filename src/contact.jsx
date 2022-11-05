@@ -70,7 +70,7 @@ const Contact = () => {
                 className="m-2 border-gray-300 rounded-md"
               />
               <label htmlFor="terms">
-                You agree to providing your data to name who may contact you.
+                You agree to providing your data to robiah who may contact you.
               </label>
             </div>
 
